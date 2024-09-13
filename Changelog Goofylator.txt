@@ -1,0 +1,5 @@
+Changelog Goofylator
+
+Version 1.5.28 BETA
+- Stable version with basic functionality, but some
+buttons like: AC, -/+ changing, Precent Button and Dot Button still not working.
