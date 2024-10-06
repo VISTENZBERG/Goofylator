@@ -1,0 +1,6 @@
+C:\.ProgsCpp\FirstProgWinForms\Goofylator\Goofylator\x64\Debug\Goofylator.vcxproj.AssemblyReference.cache
+C:\.ProgsCpp\FirstProgWinForms\Goofylator\Goofylator\x64\Debug\Goofylator.MyForm.resources
+C:\.ProgsCpp\FirstProgWinForms\Goofylator\Goofylator\x64\Debug\Goofylator.vcxproj.GenerateResource.cache
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\x64\Debug\Goofylator.vcxproj.AssemblyReference.cache
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\x64\Debug\Goofylator.MyForm.resources
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\x64\Debug\Goofylator.vcxproj.GenerateResource.cache
