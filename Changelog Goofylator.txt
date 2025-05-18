@@ -8,3 +8,7 @@ Version 1.6.00
 - Added new function AC
 - Dot button, now you can calculate numbers with point.
 - Precent an +/- button also have been added.
+
+Version 1.6.21
+Now you can download only an .exe file to use the calculator.
+You can find it: "Goofylator\x64\Release\Goofylator.exe"
