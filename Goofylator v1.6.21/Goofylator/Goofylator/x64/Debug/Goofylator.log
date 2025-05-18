@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\MyForm.h(485,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\MyForm.h(490,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\Goofylator\MyForm.h(514,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Goofylator.vcxproj -> C:\.ProgsCpp\FirstProgWinForms\Goofylator v1.5.28 BETA\Goofylator\x64\Debug\Goofylator.exe
